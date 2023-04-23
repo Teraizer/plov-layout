@@ -1,0 +1,458 @@
+@media screen and (max-width: 1405px) {
+    .block-left {
+        right: 285px;
+    }
+
+    .header-title {
+        font-size: 65px;
+    }
+
+    .header-tradition {
+        font-size: 41px;
+    }
+
+    .order-header {
+        right: 400px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+
+    .swiper-button-next, .swiper-button-prev {
+        display: none;
+
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .plov {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 1090px) {
+    .header-text-one {
+        width: 420px;
+        margin: 0;
+    }
+
+    .header-title {
+        font-size: 50px;
+    }
+
+    .header-tradition {
+        font-size: 31px;
+    }
+
+    .header-text-one {
+        width: 320px;
+        font-size: 19px;
+    }
+
+    .header-text-two {
+        font-size: 19px;
+    }
+
+    .block-left {
+        right: 360px;
+    }
+
+    .order-header {
+        right: 405px;
+    }
+
+    .header-address {
+        margin-right: 240px
+    }
+
+}
+
+@media screen and (max-width: 1040px) {
+    .header-container {
+        margin-bottom: 25px;
+        padding-left: 10px;
+    }
+
+
+    .block-left {
+        position: static;
+        padding-left: 10px
+    }
+
+    .block-right {
+        position: static;
+    }
+
+    .order-header {
+        right: 330px;
+        margin-left: 330px;
+    }
+
+    .features-dishes-text {
+        width: 600px;
+        font-size: 25px;
+    }
+
+}
+
+
+@media screen and (max-width: 920px) {
+
+    .header-address {
+        display: none;
+    }
+
+    .header-container {
+        justify-content: space-between;
+    }
+    .header-telephone{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    header {
+        height: 930px;
+    }
+
+    .header-title {
+        line-height: 70px;
+    }
+
+    .header-tradition {
+        margin-bottom: 0;
+    }
+
+    .block-left {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .block-header {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .header-address {
+        font-size: 20px;
+        margin: 0 auto;
+    }
+
+    .header-telephone {
+        font-size: 20px;
+        margin-right: auto;
+    }
+
+    .plov {
+        width: auto;
+    }
+
+    .order-header {
+        right: 0;
+        margin: 0 auto;
+        top: 150px
+    }
+
+}
+
+@media screen and (max-width: 730px) {
+    .features-dishes-frame {
+        background-image: url('/plov/img/feature-dishes-adaptive.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 830px;
+    }
+
+    .features-dishes-text {
+        width: 300px;
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .social-telegram {
+        justify-content: start;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .title-dishes {
+        font-size: 44px;
+    }
+
+    .subtitle-dishes {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 508px) {
+    .item-features {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 508px) {
+    .title-tandoor {
+        font-size: 50px;
+    }
+
+    .subtitle-tandoor {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    header {
+        height: 785px;
+    }
+
+    .order-header {
+        top: 0;
+    }
+
+    .title-dishes {
+        font-size: 40px;
+    }
+
+    .subtitle-dishes {
+        font-size: 23px;
+    }
+
+    .header-telephone {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .header-telegram {
+        padding-right: 0;
+    }
+
+    .header-title {
+        font-size: 55px;
+        text-align: center;
+    }
+
+    .header-tradition {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    .header-container {
+        border-bottom: 1px solid white;
+    }
+
+    .header-text-one {
+        text-align: center;
+        font-size: 20px;
+        width: 350px;
+    }
+
+    .header-text-two {
+        text-align: center;
+    }
+
+    .text-features {
+        max-width: 310px;
+    }
+
+    .img-tandoor {
+        top: -100px;
+    }
+
+    .title-satisfying {
+        font-size: 18px;
+    }
+
+    .item-features{
+        justify-content: center;
+    }
+
+    .subtitle-satisfying {
+        font-size: 40px;
+    }
+
+    .title-dishes {
+        font-size: 35px;
+    }
+
+    .subtitle-dishes {
+        font-size: 19px;
+    }
+
+    .img-features {
+        margin: 0 10px;
+    }
+
+    .social-telegram {
+        justify-content: start;
+    }
+
+    .header-container {
+        margin: 0 10px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+
+    header {
+        height: 700px;
+    }
+
+    .block-header {
+        height: 530px;
+    }
+
+    .order-header {
+        top: 30px;
+    }
+
+
+    .header-text-one {
+        width: 310px;
+    }
+
+    .header-title {
+        font-size: 48px;
+    }
+
+
+    .item-order-pilaf {
+        max-width: 316px;
+    }
+
+    .order-tandoor-background {
+        max-width: 335px;
+        border-radius: 20px;
+    }
+
+    .swiper-container {
+        padding-bottom: 40px;
+    }
+
+    .features-dishes {
+        padding-bottom: 140px;
+    }
+
+    .container-tandoor {
+        height: 140px;
+    }
+
+    .title-tandoor {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+
+    .subtitle-tandoor {
+        width: 277px;
+        text-align: center;
+    }
+
+    .social-link {
+        justify-content: center;
+    }
+
+    .subtitle-satisfying {
+        font-size: 32px;
+    }
+
+    .title-satisfying {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    .address-satisfying {
+        font-size: 20px;
+
+    }
+
+    .telephone-img {
+        display: none;
+    }
+
+    .telegram {
+        display: none;
+    }
+
+    .vkontakte {
+        display: none;
+    }
+
+    .telephone-call-footer {
+        width: 300px;
+    }
+
+    .telephone-call-footer:hover {
+        background: none;
+    }
+
+    .social-vkontakte {
+        margin: 0;
+        width: 80px;
+    }
+
+    .social-telegram {
+        margin: 0;
+        width: 80px;
+    }
+
+    .telegram-text {
+        display: none;
+    }
+
+    .vkontakte-text {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+
+    .header-container {
+
+        margin: 0 5px;
+    }
+
+    .header-title {
+        font-size: 40px;
+    }
+
+    .header-tradition {
+        font-size: 29px;
+    }
+
+    .header-text-one {
+        max-width: 300px;
+    }
+
+    .header-text-two {
+        font-size: 20px;
+    }
+
+    .title-dishes {
+        font-size: 30px;
+    }
+
+    .subtitle-dishes {
+        font-size: 18px;
+    }
+
+    .item-order-pilaf {
+        width: 305px;
+
+    }
+
+    .telegram-img {
+        max-width: 60px;
+    }
+
+    .vk-img {
+        max-width: 60px;
+    }
+
+    .features-dishes-text {
+        width: 260px;
+        font-size: 23px;
+    }
+
+}
